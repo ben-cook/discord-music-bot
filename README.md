@@ -1,6 +1,6 @@
 # discord-music-bot
 
-An open sources discord music bot! Can play audio from youtube from links or search terms.
+An open source discord music bot! Can play audio from youtube from links or search terms.
 
 Features:
  - Queue as many songs as you want
